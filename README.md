@@ -1,2 +1,1 @@
-# datasciencecoursera
-Data Scientist's Tools Setup project
+# Data Scientist's Tools Setup project
